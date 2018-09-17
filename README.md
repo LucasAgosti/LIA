@@ -1,2 +1,1 @@
-# LIA
-Projetos e treino
+# Projetos e treino sobre o laboratório.
